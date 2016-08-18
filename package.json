@@ -1,27 +1,24 @@
 {
   "name": "karma-ng-pug2js-preprocessor",
   "version": "1.0.0-alpha",
-  "description": "A Karma plugin. Compile Jade AngularJS templates to JavaScript on the fly.",
+  "description": "A Karma plugin. Compile Pug AngularJS templates to JavaScript on the fly.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha test/jade2js.test.js"
+    "test": "mocha test/pug2js.test.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/chmanie/karma-ng-jade2js-preprocessor.git"
-  },
+  "repository": "StoutLLC/karma-ng-pug2js-preprocessor"
   "keywords": [
     "karma-plugin",
     "karma-preprocessor",
     "angularjs",
     "angular",
     "html2js",
-    "jade2js",
-    "jade"
+    "pug2js",
+    "pug"
   ],
   "author": "Christian Maniewski <chmanie@gmail.com>",
   "dependencies": {
-    "jade": "~1.3.0"
+    "pug": "2.0.0-beta5"
   },
   "peerDependencies": {
     "karma": ">=0.9"
