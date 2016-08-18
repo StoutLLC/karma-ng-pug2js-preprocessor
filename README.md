@@ -11,7 +11,7 @@ The easiest way is to keep `karma-ng-pug2js-preprocessor` as a devDependency in 
 {
   "devDependencies": {
     "karma": "~0.12",
-    "karma-ng-pug2js-preprocessor": "1.0.0-alpha"
+    "karma-ng-pug2js-preprocessor": "1.0.0-beta.0"
   }
 }
 ```
