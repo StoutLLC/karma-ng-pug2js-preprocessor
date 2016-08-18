@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha test/pug2js.test.js"
   },
-  "repository": "StoutLLC/karma-ng-pug2js-preprocessor"
+  "repository": "StoutLLC/karma-ng-pug2js-preprocessor",
   "keywords": [
     "karma-plugin",
     "karma-preprocessor",
