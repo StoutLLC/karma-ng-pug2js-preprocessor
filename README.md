@@ -62,7 +62,7 @@ module.exports = function(config) {
       // from all the files, so you can load them all with module('foo')
       moduleName: 'foo',
 
-      // Pug compiler options. For a list of possible options, consult Jade documentation.
+      // Pug compiler options. For a list of possible options, consult Pug documentation.
       pugOptions: {
         doctype: 'xml'
       }
