@@ -16,7 +16,7 @@
     "pug2js",
     "pug"
   ],
-  "author": "Christian Maniewski <chmanie@gmail.com>",
+  "author": "Andrew Koroluk <contact@stoutllc.io>",
   "dependencies": {
     "pug": "2.0.0-beta5"
   },
@@ -24,7 +24,7 @@
     "karma": ">=0.9"
   },
   "license": "MIT",
-  "homepage": "https://github.com/chmanie/karma-ng-jade2js-preprocessor",
+  "homepage": "https://github.com/StoutLLC/karma-ng-pug2js-preprocessor",
   "devDependencies": {
     "expect.js": "^0.3.1",
     "mocha": "^1.21.4"
